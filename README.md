@@ -1,49 +1,79 @@
 # 👋 Hi there, I'm Baskaran B!
 
 🎯 Aspiring Software Developer | 🎮 Game Developer (Unity + C#)  
-📍 From Veeracholan, Tamil Nadu, India  
-📬 Reach me: [balabaskaran2001@gmail.com](mailto:balabaskaran2001@gmail.com) | [LinkedIn](https://www.linkedin.com/in/baskaran001) | [Portfolio](https://baskaran01.github.io/baskaran_portfolio/)
+📍 Veeracholan, Tamil Nadu, India – 626612  
+📬 Reach me: [balabaskaran2001@gmail.com](mailto:balabaskaran2001@gmail.com) | 📞 +91 6384518024  
+🔗 [LinkedIn](https://www.linkedin.com/in/baskaran001) | [Portfolio](https://baskaran01.github.io/baskaran_portfolio/) | [LeetCode](https://leetcode.com/u/baskaran01) | [GitHub](https://github.com/baskaran01)
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a passionate and focused software developer who enjoys solving problems and building innovative solutions.  
-With a background in **Computer Applications (MCA)** and strong knowledge in **C, C++, Python**, and **Unity game development**, I’m working toward a future in top-tier development roles — especially in product-based or gaming tech companies.
+I’m a **software developer** with a strong foundation in **C++, Java, Python**, and **game development using Unity (C#)**. I specialize in building efficient, scalable software and immersive gaming environments.
 
-Currently, I’m:
+With a background in **Computer Applications (MCA)** and a deep interest in problem-solving and algorithm design, I'm currently working towards developer roles in **product-based companies** and **game tech studios**.
 
-- 🔍 Exploring data structures and algorithms with **C++**
-- 💡 Practicing logical thinking and problem-solving
-- 🛠️ Building personal projects and contributing to GitHub
-- 📚 Always eager to learn and take on new challenges
-
----
-
-## 💻 Tech Stack
-
-- **Languages**: C, C++, Python, C#
-- **Tools**: Unity, Visual Studio, GitHub, Git
-- **Soft Skills**: Quick learner, adaptable, strong logical reasoning
+### 🔍 Currently Focusing On:
+- Advanced **Data Structures & Algorithms**
+- Real-world **Java applications**
+- Improving **system design** and **logical thinking**
+- Practicing coding on [LeetCode](https://leetcode.com/u/baskaran01) and building open-source projects
 
 ---
 
-## 🧠 Projects
+## 🧰 Tech Stack
 
-- 🎮 **Open-World Game (Unity + C#)**  
-  Developed an immersive environment with character exploration mechanics and dynamic environments.
+- **Languages**: C, C++, Java, Python, SQL, C#
+- **Development**: Unity (2D/3D), OOP, Game Mechanics, Console Apps
+- **Tools**: Visual Studio, Git, GitHub
+- **Soft Skills**: Logical Thinking, Problem Solving, Quick Learning, Teamwork, Leadership
 
-- 📊 **Mobile Buying Pattern Analysis**  
-  Analyzed mobile purchase trends and created visual dashboards, leading to strategic insights and better decisions.
+---
 
-Check out my projects [here](https://github.com/baskaran01?tab=repositories)!
+## 🚀 Projects
+
+### 🧠 Tic Tac Toe Game – *Developer (C++ & Java)*  
+[C++ Version](https://github.com/baskaran01/Tic-Tac-Toe-Game-in-C-) | [Java Version](https://github.com/baskaran01/TicTacToe)
+- Built console-based game with OOP principles and modular class design
+- Added win-state detection and input validation
+- Compared architecture and implementation between both languages
+
+### 🎮 Open-World 3D Game – *Lead Developer (Unity/C#)*
+- Designed and developed an immersive 3D game world
+- Implemented character controls, exploration systems, and performance optimizations
+- Led full development lifecycle from concept to deployment
+
+### 📊 Mobile Buying Pattern Analysis – *Data Analyst (Python)*
+- Used Pandas to analyze purchase patterns from real-world datasets
+- Created dashboards using Matplotlib to visualize trends
+- Helped improve business strategy with data-driven insights (15% sales boost)
 
 ---
 
 ## 📜 Certifications
 
-- [C++ Essentials – Scaler Topics](https://drive.google.com/file/d/1Ut8cbyXehtmTseV-RA9tYxsavH39D185/view?usp=sharing)
-- [Data Structures in C++ – Scaler Topics](https://drive.google.com/file/d/18uWrQGX4GKpSZBczNr15fP-xdBBvdmVm/view?usp=sharing)
+- ✅ [C++ Essentials – Scaler Topics (2024)](https://drive.google.com/file/d/1Ut8cbyXehtmTseV-RA9tYxsavH39D185/view?usp=sharing)
+- ✅ [Data Structures in C++ – Scaler Topics (2024)](https://drive.google.com/file/d/18uWrQGX4GKpSZBczNr15fP-xdBBvdmVm/view?usp=sharing)
+- ✅ [Java Fundamentals – Scaler Topics (2025)](https://drive.google.com/file/d/1CNuf0I90rsRlR_3q-hYniu7SsqQr-B2Y/view?usp=sharing)
+
+---
+
+## 🎓 Education
+
+**Master of Computer Applications (MCA)**  
+Kalasalingam Academy of Research and Education, Srivilliputhur  
+📅 2022 – 2024 | 🎯 CGPA: 7.15
+
+**Bachelor of Computer Applications (BCA)**  
+Sri Kaliswari College, Sivakasi  
+📅 2019 – 2022 | 🎯 CGPA: 6.8
+
+---
+
+## 🌐 Languages
+
+- **Tamil** – Native  
+- **English** – Professional Working Proficiency
 
 ---
 
@@ -53,4 +83,4 @@ Check out my projects [here](https://github.com/baskaran01?tab=repositories)!
 
 ---
 
-Thanks for visiting! Feel free to connect or collaborate 🤝
+Thanks for stopping by! Let's connect and build something amazing together 🚀
