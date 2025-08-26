@@ -2,7 +2,7 @@
 
 🎯 Aspiring Software Developer | 🎮 Game Developer (Unity + C#)  
 📍 Veeracholan, Tamil Nadu, India – 626612  
-📬 Reach me: [balabaskaran2001@gmail.com](mailto:balabaskaran2001@gmail.com) | 📞 +91 6384518024  
+📬 Reach me: [balabaskaran2001@gmail.com](mailto:balabaskaran2001@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/baskaran001) | [Portfolio](https://baskaran01.github.io/baskaran_portfolio/) | [LeetCode](https://leetcode.com/u/baskaran01) | [GitHub](https://github.com/baskaran01)
 
 ---
