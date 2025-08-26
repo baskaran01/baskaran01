@@ -25,15 +25,15 @@ Currently focusing on **Java & SQL** to expand my backend development skills.
 
 ## 🚀 Projects
 
-### 🎮 Open-World 3D Game (Unity/C#)
-- Built immersive 3D environments and character controllers  
-- Optimized gameplay performance with efficient scripting  
-- Directed development lifecycle from **concept → prototype**
-
 ### ❌ Tic Tac Toe Game  
 - [C++ Version](https://github.com/baskaran01/Tic-Tac-Toe-Game-in-C-) | [Java Version](https://github.com/baskaran01/TicTacToe)  
 - Console-based implementation with **OOP architecture**  
 - Features **win-state detection** and **input validation**
+
+### 🎮 Open-World 3D Game (Unity/C#)
+- Built immersive 3D environments and character controllers  
+- Optimized gameplay performance with efficient scripting  
+- Directed development lifecycle from **concept → prototype**
 
 ### 📊 Mobile Buying Pattern Analysis (Python)
 - Processed consumer datasets using **Pandas**  
