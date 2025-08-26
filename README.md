@@ -1,45 +1,44 @@
 # 👋 Hi, I'm Baskaran B
 
-🎯 **Software Developer | Game Developer | Problem Solver**  
-Passionate about building **scalable applications**, **interactive games**, and solving challenges with **C++**, **Java**, and **Python**.  
+**Software Developer | Game Developer | Problem Solver**  
+I enjoy building **scalable applications**, **interactive 3D games**, and solving challenges using **C++**, **Java**, and **Python**.  
+Currently focusing on **Java & SQL** to expand my backend development skills.  
 
 ---
 
-## 🚀 About Me
-- 🎮 Game Developer with experience in **Unity (C#)** & immersive 3D environments  
-- 💻 Skilled in **C++, Java, Data Structures & Algorithms**  
-- 📊 Worked on **Data Analysis projects** with Python & Pandas  
-- 🌱 Currently enhancing skills in **Java** and **SQL**  
-- 📫 Reach me: **balabaskaran2001@gmail.com**  
+## 📌 Quick Overview
+- 🎮 Experienced in **Game Development (Unity/C#)**  
+- 💻 Strong in **C++ | OOP | Data Structures & Algorithms**  
+- 📊 Hands-on with **Python Data Analysis** (Pandas, Matplotlib)  
+- 🌱 Always learning & improving my problem-solving skills  
+- 📫 Contact: **balabaskaran2001@gmail.com**  
 
 ---
 
-## 🛠️ Tech Stack
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+## 🛠️ Skills
+**Languages:** C, C++, Java, Python, SQL  
+**Game Development:** Unity, C#  
+**Tools & Platforms:** Git, GitHub, Visual Studio  
+**Core Competencies:** OOP, Data Structures & Algorithms, System Optimization  
 
 ---
 
-## 📌 Featured Projects
-### 🎮 [Open-World 3D Game](#)
-- Lead Developer using **Unity & C#**  
-- Designed immersive 3D world, optimized performance, and built core gameplay systems  
+## 🚀 Projects
 
-### ❌ [Tic Tac Toe Game](https://github.com/baskaran01/Tic-Tac-Toe-Game-in-C-) (C++)  
-### ❌ [Tic Tac Toe Game](https://github.com/baskaran01/TicTacToe) (Java)  
-- Built console-based versions with **OOP design** and **win-detection algorithms**  
+### 🎮 Open-World 3D Game (Unity/C#)
+- Built immersive 3D environments and character controllers  
+- Optimized gameplay performance with efficient scripting  
+- Directed development lifecycle from **concept → prototype**
 
-### 📊 [Mobile Buying Pattern Analysis](#)  
-- **Python, Pandas, Matplotlib**  
-- Delivered insights improving sales by **15%**  
+### ❌ Tic Tac Toe Game  
+- [C++ Version](https://github.com/baskaran01/Tic-Tac-Toe-Game-in-C-) | [Java Version](https://github.com/baskaran01/TicTacToe)  
+- Console-based implementation with **OOP architecture**  
+- Features **win-state detection** and **input validation**
+
+### 📊 Mobile Buying Pattern Analysis (Python)
+- Processed consumer datasets using **Pandas**  
+- Built dashboards with **Matplotlib**  
+- Helped identify trends that led to a **15% sales improvement**  
 
 ---
 
@@ -57,10 +56,11 @@ Passionate about building **scalable applications**, **interactive games**, and 
 ---
 
 ## 🌐 Connect With Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://baskaran01.github.io/baskaran_portfolio/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baskaran001)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/baskaran01)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baskaran01)  
+🔗 [Portfolio](https://baskaran01.github.io/baskaran_portfolio/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/baskaran001)  
+🔗 [LeetCode](https://leetcode.com/u/baskaran01)  
+🔗 [GitHub](https://github.com/baskaran01)  
 
 ---
-✨ *“Code. Learn. Build. Repeat.”* ✨
+
+✨ *"Code. Learn. Build. Repeat."* ✨
