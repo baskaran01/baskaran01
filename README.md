@@ -39,8 +39,7 @@ Processed consumer behavior datasets for trend identification using Pandas and T
 
 ## 📊 GitHub Stats
 
-![Baskaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=baskaran01&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baskaran01&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=baskaran01&theme=tokyonight&hide_border=true)
 
 ---
 
