@@ -1,66 +1,56 @@
-# 👋 Hi, I'm Baskaran B
+# Hi, I'm Baskaran 👋
 
-**Software Developer | Game Developer | Problem Solver**  
-I enjoy building **scalable applications**, **interactive 3D games**, and solving challenges using **C++**, **Java**, and **Python**.  
-Currently focusing on **Java & SQL** to expand my backend development skills.  
+**Software Developer | C++ · OOP · DSA | Open to Software Engineering Roles**
 
----
-
-## 📌 Quick Overview
-- 🎮 Experienced in **Game Development (Unity/C#)**  
-- 💻 Strong in **C++ | OOP | Data Structures & Algorithms**  
-- 📊 Hands-on with **Python Data Analysis** (Pandas, Matplotlib)  
-- 🌱 Always learning & improving my problem-solving skills  
-- 📫 Contact: **balabaskaran2001@gmail.com**  
+I build performant systems and algorithmic solutions with a strong focus on C++ and object-oriented programming. Currently deepening my DSA skills and preparing for software engineering roles.
 
 ---
 
 ## 🛠️ Skills
-**Languages:** C, C++, Java, Python, SQL  
-**Game Development:** Unity, C#  
-**Tools & Platforms:** Git, GitHub, Visual Studio  
-**Core Competencies:** OOP, Data Structures & Algorithms, System Optimization  
+
+**Languages:** C, C++ *(Primary)*, Java *(Basic)*  
+**Game Development:** Unity, C# *(Academic)*  
+**Tools:** Git, GitHub, Visual Studio  
+**Core:** OOP · Data Structures · Algorithms · System Optimization  
 
 ---
 
 ## 🚀 Projects
 
-### ❌ Tic Tac Toe Game  
-- [C++ Version](https://github.com/baskaran01/Tic-Tac-Toe-Game-in-C-) | [Java Version](https://github.com/baskaran01/TicTacToe)  
-- Console-based implementation with **OOP architecture**  
-- Features **win-state detection** and **input validation**
+### ♟️ Tic Tac Toe Game
+Console application built in both C++ and Java with OOP architecture, win-state detection algorithms and input validation.  
+[C++ Version](https://github.com/baskaran01/Tic-Tac-Toe-Game-in-C-) · [Java Version](https://github.com/baskaran01/TicTacToe)
 
-### 🎮 Open-World 3D Game (Unity/C#)
-- Built immersive 3D environments and character controllers  
-- Optimized gameplay performance with efficient scripting  
-- Directed development lifecycle from **concept → prototype**
+### 🎮 Open-World 3D Game *(Academic)*
+Immersive 3D environment with interactive mechanics and character controllers built in Unity/C#. Optimized runtime performance through efficient scripting.
 
-### 📊 Mobile Buying Pattern Analysis (Python)
-- Processed consumer datasets using **Pandas**  
-- Built dashboards with **Matplotlib**  
-- Helped identify trends that led to a **15% sales improvement**  
+### 📊 Mobile Buying Pattern Analysis *(Academic)*
+Processed consumer behavior datasets for trend identification using Pandas and Tableau. Contributed to a 15% sales improvement through data-driven insights.
 
 ---
 
 ## 🎓 Certifications
-- [C++ Essentials – Scaler Topics (2024)](https://drive.google.com/file/d/1Ut8cbyXehtmTseV-RA9tYxsavH39D185/view)  
-- [Data Structures in C++ – Scaler Topics (2024)](https://drive.google.com/file/d/18uWrQGX4GKpSZBczNr15fP-xdBBvdmVm/view)  
-- [Java Fundamentals – Scaler Topics (2025)](https://drive.google.com/file/d/1CNuf0I90rsRlR_3q-hYniu7SsqQr-B2Y/view)  
+
+- [C++ Essentials – Scaler Topics (2024)](https://drive.google.com/file/d/1Ut8cbyXehtmTseV-RA9tYxsavH39D185/view)
+- [Data Structures in C++ – Scaler Topics (2024)](https://drive.google.com/file/d/18uWrQGX4GKpSZBczNr15fP-xdBBvdmVm/view)
+- [Java Fundamentals – Scaler Topics (2025)](https://drive.google.com/file/d/1CNuf0I90rsRlR_3q-hYniu7SsqQr-B2Y/view)
 
 ---
 
 ## 📊 GitHub Stats
-![Baskaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=baskaran01&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baskaran01&layout=compact&theme=tokyonight)  
+
+![Baskaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=baskaran01&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baskaran01&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🌐 Connect With Me
-🔗 [Portfolio](https://baskaran01.github.io/baskaran_portfolio/)  
-🔗 [LinkedIn](https://www.linkedin.com/in/baskaran001)  
-🔗 [LeetCode](https://leetcode.com/u/baskaran01)  
-🔗 [GitHub](https://github.com/baskaran01)  
+## 🌐 Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://baskaran01.github.io/baskaran_portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baskaran001)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/baskaran01)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balabaskaran2001@gmail.com)
 
 ---
 
-✨ *"Code. Learn. Build. Repeat."* ✨
+*"Code. Learn. Build. Repeat."*
