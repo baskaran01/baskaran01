@@ -21,8 +21,8 @@ I build performant systems and algorithmic solutions with a strong focus on C++ 
 Console application built in both C++ and Java with OOP architecture, win-state detection algorithms and input validation.  
 [C++ Version](https://github.com/baskaran01/Tic-Tac-Toe-Game-in-C-) · [Java Version](https://github.com/baskaran01/TicTacToe)
 
-### 🎮 Open-World 3D Game *(Academic)*
-Immersive 3D environment with interactive mechanics and character controllers built in Unity/C#. Optimized runtime performance through efficient scripting.
+### 🎮 Basic 3D Environment *(Academic)*
+Built a basic 3D environment in Unity — shaped and textured terrain, placed environmental assets (trees, rocks, water). Integrated a default Unity character asset with character controller for basic navigation.
 
 ### 📊 Mobile Buying Pattern Analysis *(Academic)*
 Processed consumer behavior datasets for trend identification using Pandas and Tableau. Contributed to a 15% sales improvement through data-driven insights.
