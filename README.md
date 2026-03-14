@@ -24,8 +24,8 @@ Console application built in both C++ and Java with OOP architecture, win-state 
 ### 🎮 Basic 3D Environment *(Academic)*
 Built a basic 3D environment in Unity — shaped and textured terrain, placed environmental assets (trees, rocks, water). Integrated a default Unity character asset with character controller for basic navigation.
 
-### 📊 Mobile Buying Pattern Analysis *(Academic)*
-Processed consumer behavior datasets for trend identification using Pandas and Tableau. Contributed to a 15% sales improvement through data-driven insights.
+### 📊 Mobile Buying Pattern Analysis (Academic)
+Uploaded and analysed a mobile buying pattern dataset in Tableau. Created visualisations to identify consumer behaviour trends and presented insights through charts to support data-driven decision making.
 
 ---
 
